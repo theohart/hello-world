@@ -1,2 +1,3 @@
 # hello-world
-Learning one thing at a time
+I'm not as witty or hip as the tutorial so I'll just say
+Hey
